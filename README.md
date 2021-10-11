@@ -1,3 +1,8 @@
+# About
+-This is a front end server to be run (ideally for best performance) on the same machine as the CharlesBot host. It provides a UI to be run in the browser so that a user can interact with Charles from a mobile device. Users are able to type in commands and maintain conversations with Charles all from within the browser. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,5 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-test
